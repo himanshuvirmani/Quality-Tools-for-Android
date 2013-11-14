@@ -1,4 +1,4 @@
-rootProject.name = 'Quality Analysis Tools for Androi'
+rootProject.name = 'Quality Analysis Tools for Android'
 
 include 'android-sample'
 include 'android-sample-tests'
